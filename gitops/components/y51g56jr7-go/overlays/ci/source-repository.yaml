@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: y51g56jr7-go-repository
+spec:
+  url: https://github.com/tnevrlka-rhtap/y51g56jr7-go
